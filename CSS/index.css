@@ -302,3 +302,7 @@ body {
   width: 100%;
   display: none;
 }
+
+.img-on {
+  display:block;
+}
